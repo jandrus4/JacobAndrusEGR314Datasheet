@@ -13,4 +13,4 @@ This schematic is design to support Team 201's project for the Spring 2026 semes
 
 ## Resouces
 
-The schematic as a PDF download is available [*here*](Rudder_subsystem_schematic.pdf), and the Zip folder of the project [*here*](Rudder_subsystem.zip).
+The schematic as a PDF download is available [*here*](Rudder_subsystem.pdf), and the Zip folder of the project [*here*](Rudder_subsystem.zip).
